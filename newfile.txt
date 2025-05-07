@@ -1,1 +1,2 @@
-"Новий текст"   echo "Оновлення тексту"  
+"Some content"
+NEW CONTEXT
